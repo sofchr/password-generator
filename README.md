@@ -1,2 +1,2 @@
 ## Password Generator
-Using for loops, the Python "random"function, and 
+Create a strong password with this Python password generator! Built using for loops, random module, and shuffle and join methods.
